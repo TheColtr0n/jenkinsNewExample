@@ -1,1 +1,2 @@
-Basic test, make sure it works
+Basic test, make sure it works. 
+Automatic trigger?
